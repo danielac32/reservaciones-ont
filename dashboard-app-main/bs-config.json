@@ -1,0 +1,10 @@
+{
+  "open": false,
+  "port": 40002,
+  "server": {
+    "baseDir": "dist/dashboard-app/browser/",
+    "routes": {
+      "/node_modules": "node_modules"
+    }
+  }
+}
